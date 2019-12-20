@@ -1,0 +1,9 @@
+Machine Learning and Data Science
+
+Can be perfromed in Many Languages
+
+Python
+Anaconda
+Jupyter Notebook
+
+Install scikit-learn 

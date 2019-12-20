@@ -1,0 +1,21 @@
+Why Python and Jupyter?
+
+Open Source - Anyone can use and contribute to it. 
+General Purpose - Suitable for all types of work not only Data Science
+High-Level - Easy Syntax close to logical human labguage
+Available for all operating systems, Windows, Max, Linux, 
+
+Scikit-learn is open source
+Countless Packages delivered and maintained for Python
+
+Python - Programming Language
+Jupyter - Software that let's user interact with computer using Python on a web browser
+File Format for Jupyter - .ipynb
+
+Jupyter
+Design Well Suited for Demonstrations of Programming concepts and training
+Instead of installing different interfaces for all programming languages like R,Python, Julia or PHP, Jupyter allows us to have one interfaces
+
+Jupyter is not a text editor, it's a software which has text,code and it;s output which also helps us plot the graphs in itself
+
+Anaconda contains both!!
