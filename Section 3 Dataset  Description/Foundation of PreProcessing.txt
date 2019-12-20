@@ -1,0 +1,55 @@
+Dependent Variables and Independent Variables
+
+Dependent Variables - outcomes of interest
+
+Independent Variables - Predictors/Features
+
+PD Model
+Dependent Variable for our model - loan status
+
+LGD Model
+How much loan was recovered after default?
+Dependent Variable - Recovery Column
+
+EAD Model
+total recovered principal column
+
+Depending on the type of data we would apply different Preprocessing techniques
+
+1. Discrete 
+		Categorical
+		Finite Number of Values
+			Some variables take discrete values but can be treated as continuous variables in our dataset Ex: Number of Credit Inquiries in last six months is one such example
+			If the discrete values are sufficient and are ordered we can treat them continuous 
+		
+2. Continuous
+		Numerical
+		Infinite Number of Values
+		
+Distinctive Feature of the PD model 
+	All the independent variables have to be categorical
+	Reason - It is much easier to present the model in a simplified form and turn it into a scorecard if we only have categorical instead of mixed
+
+Discrete Values into Categorical
+	So we would transform the discrete variables into categorical variables or dummy variables
+	Only when we reach a final version of the categories from discrete values, we would create dummies
+	
+
+Continuous Variables can also be transformed into dummy variables
+Ex: Annual Income, No. of Credit Inquiries in last six months 
+We will start by turning each of them into many categories of equally sized intervals
+
+Fine Classing
+		Ex: No. of Months since loan has been granted <- column
+		We will slice it into 50 intervals 
+		like 
+		1 to 3, 
+		4 to 6 
+		7 to 9 months upto 50
+		
+		Now on these categories we try to understand how do they discriminate with adjascent categories
+		For example if 1 and 2 we merge them etc.
+Coarse Classing
+		If we make categories which are not equally distributed
+		We make them using coarse classing
+		
