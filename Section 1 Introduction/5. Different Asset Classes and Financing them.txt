@@ -1,0 +1,62 @@
+Individuals 
+	Credit Cards		-- 75%
+	Consumer Loans		-- 75%
+	Mortgages 			-- 35%
+Firms
+	SME					
+	Large Corporations
+	
+Large Corporations are very less to have a  statistical data to model
+SME contains enough data to build statistical models
+Reatil loans are also plenty to get the data
+
+In this course we would focus on a general case where 
+enough data is available for implementing a traditional statistical methodology to build credit risk model
+
+PD - Logistic Regression
+LGD - Beta Regression
+EAD - Beta Regression
+
+For different classes of customers we may have different data available
+Individuals - 
+- Any Demographics or Social informations Available
+- external credit risk agency data
+- No. of inquiries made for credit
+- Interest Rate
+
+Credit Card - 
+				Credit Limit 
+				Credit Limit Utilization can be used to build model
+				
+Mortgage Loan - 
+				Loan To Value Ratio
+
+Corporate Loans - 
+				Firm's Size
+				Years in business
+				Line of Operation
+				Target Market focus
+				Financial Statements
+				Return on Assets - 	Net income/Total Assets
+				Return on Equity - 	Net Income/Shareholder's equity
+				Current Ratio - 	Current Assets/Current Liabilities	
+				Debt Ratio - Total Liabilities/ Total Assets
+
+Many of these informations are available 
+- before the application 
+- collected after the loan is granted and under a period of observation
+
+Both of these could be used to build a behaviour model.
+
+Two models could be made
+1. Application Model
+	If the loan is risky it would have a higher interest rate
+2. Behaviour Model
+	Whether to grant an additional loan or not;
+	Ex: Using the credit card details bank may use for building the model
+
+In this course we would be building statistical models
+PD - Logistic Regression (Binomial Logistic Regression)
+LGD and EAD - Beta Regression
+
+We would be using Python

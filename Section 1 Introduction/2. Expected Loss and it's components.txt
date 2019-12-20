@@ -1,0 +1,47 @@
+Expected Loss and it's components
+EL - Expected Loss
+PD - Probability of Default
+LGD - Loss Given Default
+EAD - Exposure At Default
+
+Lenders know and expect the possibility of borrower not paying back
+
+Factors of expected loss
+1. Borrower-specific factors
+2. The economic environment
+
+How to estimate expected loss or expected credit loss?
+Definition: The amount a lender might lose by lending to a borrower
+
+EL = PD x LGD x EAD
+
+Probability of Default - Borrower's inability to repay their debt in full or on time
+
+Loss Given Default - The proportion of the total exposure that can't be recovered by the lender at default event
+
+Exposure At Default - Total value that a lender is exposed to when a borrower defaults
+
+Example
+Cost of House - $500,000
+Lender Funds 80% Loan to Value 
+So loan amount -  $400,000
+
+Borrower pays back $40,000
+Borrower Defaults here.
+
+So remaining amount to be recovered - $360,000
+Exposure at default - $360,000
+
+If there is an empirical evidence of one in every 4 homeowners having default
+So,
+Probability of Default = 1 out of 4 = 1/4 = 25%
+
+Here Bank can sold the house of $342,000
+Now 
+Exposure at Default = $360,000 - $342,000 = $18,000
+
+Loss Given Default = $18,000/$360,000 = 5%
+
+Expected Loss 	= PD x LGD x EAD
+				= 25% x 5% x $360,000
+				= $4,500

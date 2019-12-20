@@ -1,0 +1,26 @@
+
+Important concepts  mentioned in this section
+
+1. **Credit** -
+	Credit Card and Home loans are two very good examples of credit given to a borrower by a lender
+	Money in a credit card is not ours, we need to pay it back. If we fail to pay it, we need to repay with interest.
+	Home loans are another type of credit given. For this we have a collateral i.e. home itself, this could be used to recover money if the customer fails to pay back.
+	Asset financing is another good example of credit. Organizations don't buy the assets at one go instead they finance it and pay it over the time.
+
+2. **Credit Risk** -
+	Likelihood that the borrower wouldn't repay their loan to the lender is credit risk.
+	Collection costs are the costs incurred in recovering back the money that was not collected.
+	
+3. **Default Event** - 
+	The event of a borrower not being able to repay their debt is called default. 
+
+4. Risk Based Pricing
+	Lenders need to assess the credit risk associated with every loan they are giving to the borrower.
+	To ensure that the borrower pays back the amount he has taken, lenders could ask for
+	1. Collators
+	2. Increase the interest on the loan
+
+5. Main reasons for serious finacial crisis 
+	Lending to borrowers with a high probability of default
+	Ex: Global Financial Crisis and Fall of Leeman Brothers
+	

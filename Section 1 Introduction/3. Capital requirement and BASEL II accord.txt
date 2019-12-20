@@ -1,0 +1,42 @@
+When Banking System is suffered, it impacts the overall functioning of the government and stability of Economic System
+
+People wouldn't deposit money in their banks if it is not safe
+Consequently there would be less liquidity
+
+Regulators Rules:
+1. Regulate bank operations and hence reduce risky behaviour
+2. Guarantee to the public that the banking sector is in good health
+
+Loan Defaults
+Firms may default because of two possible reasons
+1. Poor corporate management 
+2. Bad product performance
+3. Also, if there is a global economic downturn
+
+Capital Requirement or Capital Adequacy or Regulatory Capital:
+Banks are required to have sufficient moeny to absorb losses
+
+Risk Weighted Assets - Every loan that bank gives is an asset to bank. This loan is associated with risk
+
+So, Capital Adequacy Ratio should be greater than a certain percentage
+
+BASEL II Accord 
+- How much capital banks need to have
+- How capital is defined
+- How Capital is compared against risk-weighted assets
+
+BASEL II Accord defines the Capital amount a bank needs
+because The Greater the risk a bank is exposed to the greater the capital it needs to hold
+
+BASEL II Accord has three pillars
+1. Minimum Capital Requirement
+	- Credit Risk
+	- Operational Risk
+		* Internal Ratings Based Approach (IRB)
+			** Foundational IRB Approach
+			** Advanced IRB Approach
+	- Market Risk
+	
+2. Supervisory Review
+3. Market Discipline
+

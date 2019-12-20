@@ -1,0 +1,50 @@
+BASEL II Approaches
+
+EL = PD x EAD x LGD
+
+BASEL II Accord has three pillars
+1. Minimum Capital Requirement
+	- Credit Risk
+	- Operational Risk
+		* Internal Ratings Based Approach (IRB)
+			** Foundational IRB Approach
+			** Advanced IRB Approach
+	- Market Risk
+	
+2. Supervisory Review
+3. Market Discipline
+
+From this we have three options to model the credit risk
+1. Standardised Approach
+2. Foundational IRB Approach
+3. Advanced IRB Approach
+
+Capital Requirement is calculated differently under these three approach
+1. Standardised Approach -- Fixed % of the total exposure
+		FICO 
+		Moody's etc do credit risk rating
+		In India - CRISIL
+		S&P do it for Firms and Countries ex: AAA, AAA-, BBB etc
+		
+		Under this approach,
+		There is a table for which there is a certain % of total amount is held
+		Ex: 
+		AAA to AAA- rated companies -- 20%
+		A+ to A- -- 50% should be held as capital
+		
+		Retail, Credit Card and Consumer loans - 75% of the loan given
+		Home Loans - 35%
+		
+2. Foundational IRB & Advanced IRB Approach 
+		When banks give out the loans they collect data and this data could be used for calculation
+		This data can be used under IRB approach
+
+Banks would like to move from SA to F-IRB to A-IRB
+Because holding as much as 75% of the data of the loan is too much
+If a bank gets a proper risk profile of an individual, they would need to hold less amount of money
+
+More Precise estimation of Capital ==> More new business with SAME capital
+
+IRB Approach allow banks to do their own credit rating
+- Hence bank ccan allocate more resources to cover losses
+
